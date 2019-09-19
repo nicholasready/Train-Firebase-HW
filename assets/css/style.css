@@ -1,0 +1,14 @@
+.header {
+    text-align: center;
+    height: 300px;
+}
+
+.card{
+width:900px;
+margin: 0 auto;
+
+}
+h4 {
+    background-color: #3A7BFF;
+    color: white;
+}
